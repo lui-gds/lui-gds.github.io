@@ -1,0 +1,12 @@
+body {
+    background: black;
+    overflow: hidden;
+}
+#overlay {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2 {
+    color: white;
+}
